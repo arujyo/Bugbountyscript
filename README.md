@@ -1,0 +1,2 @@
+# Bugbountyscript
+bugbounty
